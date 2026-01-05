@@ -1,0 +1,5 @@
+{
+  "name": "Rastreador de Compras",
+  "description": "Aplicación inteligente para gestionar compras online, analizar emails de confirmación y organizar pedidos.",
+  "requestFramePermissions": []
+}
